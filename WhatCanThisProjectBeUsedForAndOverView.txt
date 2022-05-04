@@ -1,7 +1,5 @@
-This project is made of background images that expand when clicked on. 
+This project is a login form and the length of the password is detedted. 
+As the password lengthens the background image unblurs in varying degrees 
 
-It uses Flexbox, CSS transitions and JavaScript
+It uses Flexbox, CSS transitions and JavaScript and tailwind utility classes
 
-This could be converted to be used in (for example) the following ways
-
-- 
